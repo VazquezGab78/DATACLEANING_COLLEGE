@@ -15,3 +15,7 @@
 ```bash
 HOLA
 ```
+```console
+foo@bar:~$ whoami
+foo
+```
