@@ -12,4 +12,6 @@
 
 <h2>Pasos a seguir</h2>
 <h3>1.-Instalación de librerias</h3>
-```HOLA```
+```bash
+HOLA
+```
